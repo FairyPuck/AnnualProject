@@ -32,8 +32,8 @@
 /wd4244
 /wd4838
 /I .
-/I D:\UnrealProjects\AnnualProject\Intermediate\Build\Win64\UE4Editor\Inc\AnnualProject
-/I D:\UnrealProjects\AnnualProject\Source
+/I C:\Users\KAKTUS\Documents\GitHub\AnnualProject\AnnualProject\Intermediate\Build\Win64\UE4Editor\Inc\AnnualProject
+/I C:\Users\KAKTUS\Documents\GitHub\AnnualProject\AnnualProject\Source
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -261,17 +261,17 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
 /I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.7\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/FI"D:\UnrealProjects\AnnualProject\Intermediate\Build\Win64\AnnualProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"D:\UnrealProjects\AnnualProject\Intermediate\Build\Win64\AnnualProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\UnrealProjects\AnnualProject\Intermediate\Build\Win64\AnnualProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"D:\UnrealProjects\AnnualProject\Intermediate\Build\Win64\UE4Editor\Inc\AnnualProject\AnnualProject.init.gen.cpp"
-/FI"D:\UnrealProjects\AnnualProject\Intermediate\Build\Win64\UE4Editor\Development\AnnualProject\Definitions.AnnualProject.h"
-/Fo"D:\UnrealProjects\AnnualProject\Intermediate\Build\Win64\UE4Editor\Development\AnnualProject\AnnualProject.init.gen.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.7.2\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
+/FI"C:\Users\KAKTUS\Documents\GitHub\AnnualProject\AnnualProject\Intermediate\Build\Win64\AnnualProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\KAKTUS\Documents\GitHub\AnnualProject\AnnualProject\Intermediate\Build\Win64\AnnualProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\KAKTUS\Documents\GitHub\AnnualProject\AnnualProject\Intermediate\Build\Win64\AnnualProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\KAKTUS\Documents\GitHub\AnnualProject\AnnualProject\Intermediate\Build\Win64\UE4Editor\Inc\AnnualProject\AnnualProject.init.gen.cpp"
+/FI"C:\Users\KAKTUS\Documents\GitHub\AnnualProject\AnnualProject\Intermediate\Build\Win64\UE4Editor\Development\AnnualProject\Definitions.AnnualProject.h"
+/Fo"C:\Users\KAKTUS\Documents\GitHub\AnnualProject\AnnualProject\Intermediate\Build\Win64\UE4Editor\Development\AnnualProject\AnnualProject.init.gen.cpp.obj"
 /TP
 /GR-
 /W4

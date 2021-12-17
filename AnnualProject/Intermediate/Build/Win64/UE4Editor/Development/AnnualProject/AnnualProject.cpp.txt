@@ -1,2 +1,2 @@
-D:\UnrealProjects\AnnualProject\Intermediate\Build\Win64\UE4Editor\Development\AnnualProject\Definitions.AnnualProject.h
-D:\UnrealProjects\AnnualProject\Source\AnnualProject\AnnualProject.h
+C:\Users\KAKTUS\Documents\GitHub\AnnualProject\AnnualProject\Intermediate\Build\Win64\UE4Editor\Development\AnnualProject\Definitions.AnnualProject.h
+C:\Users\KAKTUS\Documents\GitHub\AnnualProject\AnnualProject\Source\AnnualProject\AnnualProject.h

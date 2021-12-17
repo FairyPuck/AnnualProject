@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\UnrealProjects\\AnnualProject\\Source\\AnnualProject\\AnnualProject.Build.cs",
-		"D:\\UnrealProjects\\AnnualProject\\Source\\AnnualProject.Target.cs",
-		"D:\\UnrealProjects\\AnnualProject\\Source\\AnnualProjectEditor.Target.cs"
+		"C:\\Users\\KAKTUS\\Documents\\GitHub\\AnnualProject\\AnnualProject\\Source\\AnnualProject\\AnnualProject.Build.cs",
+		"C:\\Users\\KAKTUS\\Documents\\GitHub\\AnnualProject\\AnnualProject\\Source\\AnnualProject.Target.cs",
+		"C:\\Users\\KAKTUS\\Documents\\GitHub\\AnnualProject\\AnnualProject\\Source\\AnnualProjectEditor.Target.cs"
 	],
-	"EngineVersion": "4.27.1"
+	"EngineVersion": "4.27.2"
 }

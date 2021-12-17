@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "AnnualProject",
-			"Path": "D:\\UnrealProjects\\AnnualProject\\Source\\AnnualProject.Target.cs",
+			"Path": "C:\\Users\\KAKTUS\\Documents\\GitHub\\AnnualProject\\AnnualProject\\Source\\AnnualProject.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "AnnualProjectEditor",
-			"Path": "D:\\UnrealProjects\\AnnualProject\\Source\\AnnualProjectEditor.Target.cs",
+			"Path": "C:\\Users\\KAKTUS\\Documents\\GitHub\\AnnualProject\\AnnualProject\\Source\\AnnualProjectEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

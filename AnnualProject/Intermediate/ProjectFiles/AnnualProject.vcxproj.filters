@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <None Include="..\..\AnnualProject.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{FADD234D-CAB0-41D0-8842-6F86DFC7F3CB}</UniqueIdentifier>
+      <UniqueIdentifier>{8380B1DC-2AB1-479F-9B13-083BFFD78C69}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\AnnualProject.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{F6C73FC7-FE08-488D-B07F-914C34A7113E}</UniqueIdentifier>
+      <UniqueIdentifier>{40B6B5B8-0AE4-46A0-88A3-D8F017CF3356}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\AnnualProject">
-      <UniqueIdentifier>{F1B4818D-7F3D-471F-99AD-59C23BCD541D}</UniqueIdentifier>
+      <UniqueIdentifier>{A508BDE9-F532-4B9F-AD79-79F260ED8243}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\AnnualProject\AnnualProject.Build.cs">
       <Filter>Source\AnnualProject</Filter>
